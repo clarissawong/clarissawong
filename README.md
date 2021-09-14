@@ -8,7 +8,9 @@ Currently, I am these things: part time software dev 👩‍💻 and a full time
 - HTML, CSS, JS
 - Java
 - Springboot, JPA, Hibernate
+- Gulp
 - MySQL
+- Firebase
 
 What I have started but needs to continue working on:
 - Flutter
